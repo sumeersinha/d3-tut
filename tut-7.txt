@@ -1,0 +1,3 @@
+DOM elements < data elements (enter)
+DOM elements > data elements (exit)
+DOM elements = data elements (update)
